@@ -1,2 +1,2 @@
 # ChessEngine
-A low Leo chess bot named Ryo Tabata
+A low elo chess bot named Ryo Tabata
