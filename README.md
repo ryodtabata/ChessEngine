@@ -16,11 +16,4 @@ A fully-featured chess game built with Python and Pygame, allowing players to co
   - Visual indicators for legal moves
   - Real-time chat messages displayed within the game
   - AI avatar with speech bubbles for a more engaging experience
-- **Customizable Interface**: User-friendly layout with optimized whitespace and an avatar for the AI opponent.
-
-## Installation
-
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/yourusername/chess-game.git
-   cd chess-game
+- **Customizable Interface**: User-friendly layout with picture of GM Ryo Tabata to scare opponents
