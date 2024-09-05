@@ -17,3 +17,5 @@ A fully-featured chess game built with Python and Pygame, allowing players to co
   - Real-time chat messages displayed within the game
   - AI avatar with speech bubbles for a more engaging experience
 - **Customizable Interface**: User-friendly layout with picture of GM Ryo Tabata to scare opponents
+
+- **Python3 ChessMain.py to run**
